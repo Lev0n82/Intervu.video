@@ -1,0 +1,66 @@
+
+
+Sun Nov 24 12:15:58 2024
+Command line: TestDisk
+
+TestDisk 7.2, Data Recovery Utility, February 2024
+Christophe GRENIER <grenier@cgsecurity.org>
+https://www.cgsecurity.org
+OS: Darwin, kernel 20.6.0 (Darwin Kernel Version 20.6.0: Thu Jul  6 22:12:47 PDT 2023; root:xnu-7195.141.49.702.12~1/RELEASE_X86_64) x86_64
+Compiler: GCC 4.2
+ext2fs lib: 1.46.2, ntfs lib: libntfs-3g, reiserfs lib: none, ewf lib: none, curses lib: ncurses 5.7
+User is not root!
+Hard disk list
+Disk /dev/disk3 - 2199 GB / 2047 GiB - 4294967295 sectors (RO), sector size=512
+Disk /dev/disk4 - 594 MB / 567 MiB - 1161908 sectors (RO), sector size=512
+Disk /dev/rdisk3 - 2199 GB / 2047 GiB - 4294967295 sectors (RO), sector size=512
+Disk /dev/rdisk4 - 594 MB / 567 MiB - 1161908 sectors (RO), sector size=512
+
+Partition table type (auto): Mac
+Media is opened in read-only.
+Disk /dev/disk4 - 594 MB / 567 MiB (RO)
+Partition table type: Mac
+
+Analyse Disk /dev/disk4 - 594 MB / 567 MiB - 1161908 sectors (RO)
+
+HFS+ magic value at 64/0/1
+
+HFS+ magic value at 64/0/1
+Current partition structure:
+ 1 P partition_map                  1         63         63
+ 2 P HFS                           64    1161907    1161844
+
+search_part()
+Disk /dev/disk4 - 594 MB / 567 MiB - 1161908 sectors (RO)
+
+HFS+ magic value at 64/0/1
+
+HFS+ magic value at 64/0/1
+part_size 1161844
+     HFS                           64    1161907    1161844
+     HFS+ blocksize=2048 + Backup, 594 MB / 567 MiB
+
+Results
+   P HFS                           64    1161911    1161848
+     HFS+ blocksize=2048 + Backup, 594 MB / 567 MiB
+
+interface_write()
+   P HFS                           64    1161911    1161848
+
+search_part()
+Disk /dev/disk4 - 594 MB / 567 MiB - 1161908 sectors (RO)
+
+HFS+ magic value at 64/0/1
+
+HFS+ magic value at 64/0/1
+part_size 1161844
+     HFS                           64    1161907    1161844
+     HFS+ blocksize=2048 + Backup, 594 MB / 567 MiB
+
+Results
+   P HFS                           64    1161911    1161848
+     HFS+ blocksize=2048 + Backup, 594 MB / 567 MiB
+
+interface_write()
+   P HFS                           64    1161911    1161848
+SIGHUP detected! PhotoRec has been killed.
