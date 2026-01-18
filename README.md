@@ -67,7 +67,7 @@ Users authenticate → Create interviews/surveys → Generate questions with AI 
 
 ## 3. Installation Instructions
 
-###Prerequisites
+### Prerequisites
 
 * Node.js (v16 or higher)
 * npm (v8 or higher)
@@ -76,7 +76,7 @@ Users authenticate → Create interviews/surveys → Generate questions with AI 
 * Modern web browser
 
 
-###Step-by-Step Setup
+### Step-by-Step Setup
 
 
 * Clone the Repository
@@ -85,18 +85,18 @@ git clone https://github.com/your-username/intervu.video.git
    cd intervu.video
    
 
-###Install Dependencies
+### Install Dependencies
 
    npm install
    
 
-###Create Environment Variables
+### Create Environment Variables
 
 Create a .env file in the root directory
 
 Add all required API keys and configuration
 
-###Configure Supabase
+### Configure Supabase
 
 * Set up Supabase project
 
@@ -106,7 +106,7 @@ Add all required API keys and configuration
 
 
 
-###Set Up API Keys
+### Set Up API Keys
 
 * Google OAuth credentials
 
@@ -115,17 +115,17 @@ Add all required API keys and configuration
 * Fall.ai API key
 
 
-###Start Development Server
+### Start Development Server
 
   npm run dev
    
 
-###Access Application
+### Access Application
 
 Open http://localhost:5173 in your browser
 
 
-###Environment Variables Needed
+### Environment Variables Needed
 
 
 * VITE_SUPABASE_URL
