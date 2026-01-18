@@ -1,0 +1,13 @@
+## Pages
+- [- intervu.video](/auth): Sign in or create an account to access your intervu.video dashboard.
+- [About Us | Why Intervu.video](/aboutus): Learn about Intervu.video
+- [AI Technology & Technical Architecture](/technicaldetails): Explore the advanced AI technology behind Intervu.video, including our deception detection capabilities, technical architecture, and ethical AI framework.
+- [Dashboard - Candidate Portal | intervu.video](/candidatedashboard): Manage your video profile and upcoming interviews.
+- [Dashboard | Intervu.video](/dashboard): Overview of your organization and quick actions.
+- [Start Interview:](/interviewstart): No description available
+- [System Diagnostics | Intervu Studio](/videodiagnostics): No description available
+- [The State of Hiring: 2025 Annual Report](/reports): A comprehensive overview of the key trends shaping the recruitment landscape in 2025, including AI adoption, remote hiring, and the candidate experience.
+- [Untitled Page](/accessibilitycompliance): No description available
+- [Untitled Page](/featurestatus): No description available
+- [Untitled Page](/landing): No description available
+- [Untitled Page](/versionhistory): No description available
